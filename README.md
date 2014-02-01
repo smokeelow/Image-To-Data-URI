@@ -1,4 +1,4 @@
-Image-To-Data-URI
+Image To Data URI
 =================
 
 It's simple chrome extension that allows you get image data uri in two clicks.
